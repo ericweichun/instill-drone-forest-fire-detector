@@ -8,7 +8,7 @@ The Drone Forest Fire Risk Detector can quickly determine if there is a risk of 
 
 This model is accessible through the Instill Model platform and can be conveniently used to build pipelines via Instill Model connector. To utilize it, simply set the Model task to "TASK_VISUAL_QUESTION_ANSWERING" and set the Model to "llava1.6-13b" in the Instill Model connector.
 
-For in-depth information about LLaVA1.6-13B, its capabilities, and the research behind it, please refer to the official paper and additional resources available at LLaVa GitHub.
+For in-depth information about LLaVA1.6-13B, its capabilities, and the research behind it, please refer to the official paper and additional resources available at [LLaVa GitHub](https://llava-vl.github.io/"link").
 
 # Example
 
